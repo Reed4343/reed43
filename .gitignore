@@ -3,5 +3,6 @@
 /.idea/workspace.xml
 Lab1.iml
 /.idea
-/src
+/src/test
+/src/main/resources
 
